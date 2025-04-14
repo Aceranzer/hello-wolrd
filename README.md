@@ -1,2 +1,2 @@
 # hello-wolrd
-project pertama
+project pertama :|
